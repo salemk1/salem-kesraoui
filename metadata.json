@@ -1,0 +1,8 @@
+{
+  "name": "Resto Rayen",
+  "description": "Sito web ufficiale del ristorante Resto Rayen. Scopri il nostro ricco menu di pizze, panini, piatti libanesi, tacos e cornet, ordina online, prenota un tavolo ed interagisci con lo Chef AI per farti consigliare i piatti migliori!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
